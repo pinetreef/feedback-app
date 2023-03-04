@@ -29,7 +29,6 @@ function App(){
 
             {showComments && commentBlock}
             
-            
             <label htmlFor="labelTest"></label>
         </div>
     )
