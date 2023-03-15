@@ -47,7 +47,8 @@ export const FeedbackProvider = ({children}) => {
         feedback,
         deleteFeedback,
         addFeedback,
-        editFeedback,
+        editFeedback, //This is the function to edit
+        feedbackEdit, //This is the piece of state that holds the item and the boolean value
     }}>
         {children}
     </FeedbackContext.Provider>
