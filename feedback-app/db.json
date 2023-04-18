@@ -48,6 +48,11 @@
       "name": "Fabio",
       "text": "New feedback by Fabio",
       "id": 10
+    },
+    {
+      "text": "This is a test with backend",
+      "rating": 6,
+      "id": 11
     }
   ]
 }
